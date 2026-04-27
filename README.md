@@ -45,7 +45,7 @@ This significantly reduces account takeover risk, even if a password is leaked.
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/AmirEid/Authentication-MicroService---Fastify">
-        <img src="https://img.shields.io/badge/Fastify%20Auth%20Service-Open%20Project-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify Auth Service" />
+        <img src="https://img.shields.io/badge/Fastify%20Auth%20Service-Click%20Me-000000?style=for-the-badge&logo=fastify&logoColor=white&cacheSeconds=0" alt="Fastify Auth Service" />
       </a>
       <br/><br/>
       <strong>Techs Used</strong>
@@ -70,7 +70,7 @@ This significantly reduces account takeover risk, even if a password is leaked.
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/AmirEid/Authentication-Service-FastAPI">
-        <img src="https://img.shields.io/badge/FastAPI%20Auth%20Service-Open%20Project-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Auth Service" />
+        <img src="https://img.shields.io/badge/FastAPI%20Auth%20Service-Click%20Me-009688?style=for-the-badge&logo=fastapi&logoColor=white&cacheSeconds=0" alt="FastAPI Auth Service" />
       </a>
       <br/><br/>
       <strong>Techs Used</strong>
