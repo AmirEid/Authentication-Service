@@ -2,6 +2,13 @@
 
 Two backend authentication implementations, one in Fastify and one in FastAPI, built to show how modern JWT and 2FA/session flows are designed in different stacks.
 
+> The two project links are below. Open the cards to jump directly to each repository.
+
+Quick jump:
+
+- [Fastify Auth Service](#projects)
+- [FastAPI Auth Service](#projects)
+
 If you want to compare real auth architectures, this repository gives you two working projects side by side:
 
 - JWT-based login and session handling
